@@ -58,7 +58,8 @@
   <label for="">Não</label><br>
   <label for="">Comprovante de matricula da instituicao:</label>
   <input type="file" name="matricula"><br>
-
+  <button type="button" onclick="alert('Voltar')">Voltar</button>
+  <button type="button" onclick="alert('Enviar')">Enviar</button>
 </form>
 
 
